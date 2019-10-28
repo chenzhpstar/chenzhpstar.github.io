@@ -1282,7 +1282,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #df11ff;
+  background: #ffebaf;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2171,7 +2171,7 @@ pre .javascript .function {
 .reward-container button {
   background: #ff2a2a;
   border: 0;
-  border-radius: 5px;
+  border-radius: 25px;
   color: #fff;
   cursor: pointer;
   display: inline-block;
@@ -2179,7 +2179,7 @@ pre .javascript .function {
   line-height: 2;
   margin: 0;
   outline: 0;
-  padding: 0 15px;
+  padding: 6px 15px;
   text-indent: 0;
   text-shadow: none;
   text-transform: none;
